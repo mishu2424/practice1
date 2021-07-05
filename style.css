@@ -68,4 +68,35 @@ body {
 .gitimg {
   width: 50%;
   margin-left: 100px;
+  margin-top: 100px;
+}
+.hel {
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+.new {
+  width: 50%;
+  padding-left: 2%;
+  margin-left: 2%;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px black;
+}
+.slice1 {
+  border-left: 8px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+.slice2 {
+  border-left: 8px solid;
+  border-image: linear-gradient(orangered, white);
+  border-image-slice: 1;
+}
+.text {
+  text-align: center;
+  font-size: 10px;
+}
+footer p {
+  font-size: 10px;
+  text-align: center;
 }
