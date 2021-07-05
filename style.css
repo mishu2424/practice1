@@ -2,7 +2,7 @@ body {
   font-family: "Encode Sans SC", sans-serif;
 }
 .e1 {
-  color: orangered;
+  color: rgb(54, 14, 0);
   font-size: 50px;
   text-align: center;
 }
@@ -99,4 +99,17 @@ body {
 footer p {
   font-size: 10px;
   text-align: center;
+}
+#bg-img {
+  background-image: url(https://www.noupe.com/wp-content/uploads/2017/10/bubblydefault.gif);
+  background-repeat: no-repeat;
+}
+#bg-img2 {
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+#bg-img3 {
+  background-image: url();
+  background-position: 100%;
 }
