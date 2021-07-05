@@ -1,0 +1,71 @@
+body {
+  font-family: "Encode Sans SC", sans-serif;
+}
+.e1 {
+  color: orangered;
+  font-size: 50px;
+  text-align: center;
+}
+.dis {
+  display: flex;
+  margin-bottom: 50px;
+}
+.sec1 {
+  width: 50%;
+  padding-left: 2%;
+}
+.pr {
+  text-align: justify;
+}
+.link {
+  padding: 10px;
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  color: white;
+}
+.deco {
+  text-decoration: none;
+}
+.eimg {
+  width: 80%;
+  margin-left: 20px;
+}
+.eimg2 {
+  width: 50%;
+  margin-left: 100px;
+}
+.f1 {
+  font-size: 20px;
+  color: black;
+}
+.li {
+  text-decoration: none;
+  color: red;
+}
+.mb {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.tab {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+
+  border-right: 2px solid;
+  box-shadow: 10px 10px 30px black;
+  border-image-slice: 1;
+}
+.tab1 {
+  background-color: black;
+  color: white;
+}
+.tab2 {
+  border: 2px solid black;
+}
+.yellow {
+  background-color: yellow;
+}
+.gitimg {
+  width: 50%;
+  margin-left: 100px;
+}
